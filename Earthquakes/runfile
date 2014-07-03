@@ -1,0 +1,2 @@
+cat quake.txt | ./a.out > data
+
